@@ -1,0 +1,23 @@
+{
+  "name": "code-editor",
+  "version": "1.0.0",
+  "description": "my linux code-editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masiprand151/code-editor.git"
+  },
+  "keywords": [
+    "code",
+    "code-editor"
+  ],
+  "author": "masiprand151 <masiprand151@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masiprand151/code-editor/issues"
+  },
+  "homepage": "https://github.com/masiprand151/code-editor#readme"
+}
