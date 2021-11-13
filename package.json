@@ -2,7 +2,7 @@
   "name": "code-editor",
   "version": "1.0.0",
   "description": "my linux code-editor",
-  "private":"true",
+  "private": "true",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/masiprand151/code-editor/issues"
   },
-  "homepage": "https://github.com/masiprand151/code-editor#readme"
+  "homepage": "https://github.com/masiprand151/code-editor#readme",
+  "devDependencies": {
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.1"
+  }
 }
