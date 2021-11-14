@@ -27,7 +27,7 @@ const { spawn } = require('child_process')
     target: 'electron-renderer',
     plugins: [
         new HtmlWebpackPlugin({
-            template: 'src/index.html'
+            title: 'code-editor'
         }),
         new webpack.DefinePlugin({
         'process.env.NODE_ENV': JSON.stringify('development')
