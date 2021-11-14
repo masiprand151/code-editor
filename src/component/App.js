@@ -1,4 +1,5 @@
 import React from "react";
+import Sidebar from "./Sidebar";
 
 import './App.css';
 
@@ -6,7 +7,7 @@ const App = () => {
     return (
         <div className="App">
             <div className="body">
-                <div className="left">1</div>
+                <Sidebar/>
                 <div className="right">2</div>
             </div>
             <div className="footer">3</div>

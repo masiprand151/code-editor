@@ -1,0 +1,12 @@
+.Sidebar {
+    display: flex;
+    flex-direction: row;
+    height: inherit;
+    width: auto;
+}
+
+.Sidebar .context {
+    background-color: #252526;
+    min-width: 150px;
+    width: 200px;
+}
